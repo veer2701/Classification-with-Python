@@ -21,3 +21,4 @@ F1-score
 
 LogLoass
 
+![image](https://user-images.githubusercontent.com/8589760/152643037-3cdf3bf1-afc1-45fb-bb93-4230ffbd8899.png)
